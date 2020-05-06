@@ -1,5 +1,5 @@
 Rainbows and unicorns
-
+and pony
 v
 i
 b
@@ -9,4 +9,5 @@ sauce
 o
 r
 unicorn
+pony
 These are the colours of the rainbows!
